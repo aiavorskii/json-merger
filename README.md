@@ -1,3 +1,4 @@
+- run `npm i`
 - create **jsons** dir first
 - put file to merger into **jsons**
 - run `node index.js`
